@@ -9,3 +9,5 @@ Preferred languages are Typescript and C++. At work I have no choice to write Ja
 Author of NUIST Online Judge -- Leverage.
 
 Hold a wait-and-see attitude towards rust. Rust is far from mature.
+
+Most of my projects are private.
