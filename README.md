@@ -10,4 +10,4 @@ Author of NUIST Online Judge -- Leverage.
 
 Hold a wait-and-see attitude towards rust. Rust is far from mature.
 
-Most of my projects are private.
+Most of my projects are private or closed source.
